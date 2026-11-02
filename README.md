@@ -5,11 +5,11 @@
 
 ### ▶ 作品を見る
 
-**https://york-14.github.io/Generative-Flower/**
+**https://symbealab.github.io/Generative-Flower/**
 
 ブラウザで開くだけで動きます（PC・スマートフォン対応、外部ライブラリなし）。
 
-[![咲く・散る](docs/og.jpg)](https://york-14.github.io/Generative-Flower/)
+[![咲く・散る](docs/og.jpg)](https://symbealab.github.io/Generative-Flower/)
 
 ## 一周の流れ
 
@@ -69,9 +69,9 @@ OS の「視差効果を減らす（prefers-reduced-motion）」が有効なと�
 
 上の URL で表示されないときは、Pages を有効にしてください。GitHub アプリにはこの設定がないため、ブラウザで行います。
 
-1. ブラウザで https://github.com/York-14/Generative-Flower/settings/pages を開く
+1. ブラウザで https://github.com/Symbealab/Generative-Flower/settings/pages を開く
 2. **Source** を「Deploy from a branch」にする
 3. **Branch** を `main`、フォルダを `/ (root)` にして **Save**
-4. 1〜2 分後に https://york-14.github.io/Generative-Flower/ で表示されます
+4. 1〜2 分後に https://symbealab.github.io/Generative-Flower/ で表示されます
 
 ローカルで見るときは、`index.html` をダウンロードしてブラウザで開くだけで動きます。
